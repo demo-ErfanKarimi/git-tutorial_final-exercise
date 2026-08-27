@@ -1,2 +1,3 @@
 Collaboration Demo Project
 Version 1.0
+Description: A project to practice collaborative workflows on GitHub.
